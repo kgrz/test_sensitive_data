@@ -8,3 +8,6 @@ Test scenario:
   2. Reset that commit
   3. Do a push
   4. Clone in a different folder and see if that gets transferred.
+
+
+The answer is no
